@@ -22,7 +22,7 @@ const Navbar = () => {
             <a href="/contact" className="text-white hover:text-gray-200">
               Contact
             </a>
-            <a href="https://github.com/BowlPulp/GitPeek" className="text-white hover:text-gray-200">
+            <a href="https://github.com/sannya07/Github-profile-viewer" className="text-white hover:text-gray-200">
               Contribute
             </a>
           </div>
